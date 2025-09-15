@@ -1,0 +1,16 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "this is my first backend project",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "\"Prabha Kushaha\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  }
+}
