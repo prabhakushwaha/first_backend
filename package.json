@@ -1,5 +1,5 @@
 {
-  "name": "yes",
+  "name": "backend",
   "version": "1.0.0",
   "description": "this is my first backend project",
   "keywords": [
@@ -7,10 +7,14 @@
     "backend"
   ],
   "license": "ISC",
-  "author": "\"Prabha Kushaha\"",
-  "type": "commonjs",
+  "author": "\"Prabha Kushwaha\"",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/index.js",
     "test": "start"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
